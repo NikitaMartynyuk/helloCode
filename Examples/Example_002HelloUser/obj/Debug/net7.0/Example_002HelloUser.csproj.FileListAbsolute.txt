@@ -1,0 +1,15 @@
+D:\C# Практика\Examples\Example_002HelloUser\bin\Debug\net7.0\Example_002HelloUser.exe
+D:\C# Практика\Examples\Example_002HelloUser\bin\Debug\net7.0\Example_002HelloUser.deps.json
+D:\C# Практика\Examples\Example_002HelloUser\bin\Debug\net7.0\Example_002HelloUser.runtimeconfig.json
+D:\C# Практика\Examples\Example_002HelloUser\bin\Debug\net7.0\Example_002HelloUser.dll
+D:\C# Практика\Examples\Example_002HelloUser\bin\Debug\net7.0\Example_002HelloUser.pdb
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.csproj.AssemblyReference.cache
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.AssemblyInfoInputs.cache
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.AssemblyInfo.cs
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.csproj.CoreCompileInputs.cache
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.dll
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\refint\Example_002HelloUser.dll
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.pdb
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\Example_002HelloUser.genruntimeconfig.cache
+D:\C# Практика\Examples\Example_002HelloUser\obj\Debug\net7.0\ref\Example_002HelloUser.dll
